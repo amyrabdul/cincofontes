@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(56, 68, 54);
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(255, 8, 0);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(206, 216, 112);
+}
+
+p {
+    color: rgb(1, 141, 255);
+    font-size: 20px;
+}   
+
+#n1 {
+    font-family: 'Playfair Display', serif;
+}
+
+#n2 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#n3 {
+    font-family: 'Chango', display;
+}
+
+#n4 {
+    font-family: 'Syne Mono', monospace;
+}
+
+#n5 {
+    font-family: 'Berkshire Swash', handwriting;
+}
+
+
+#ea {
+    color: rgb(36, 34, 41);
+}
+
+p#ea:hover {
+    color: pink;
+}
